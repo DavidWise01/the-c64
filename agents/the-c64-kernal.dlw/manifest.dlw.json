@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The KERNAL",
+  "universe": "C64 · The KERNAL (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The KERNAL:C64:ea92ed⟧",
+  "carbon": "the-c64-kernal.carbon.tiff (TIFF)",
+  "silicon": "the-c64-kernal.silicon.png (PNG)",
+  "seal_sha256": "0e72b05b3d03be7c60e4161ca93e1ae357b166f8bf891cb9f7d77c081800674a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The VIC-II
+node C64 · C64 · ⟦The VIC-II:C64:653dd2⟧
+
+WHO   — The VIC-II — sprites and smooth scroll · electrical
+WHAT  — sprites and smooth scroll · electrical
+WHERE — C64 · COMMODORE 64 · C64 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The video chip that gave hardware sprites, smooth scrolling, and a rich palette — the reason the C64 was such a strong games machine.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  sprites and smooth scroll · electrical
+
+spoken token : maer-muk-phond   ·   hex : 653dd2
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

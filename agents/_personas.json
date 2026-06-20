@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-c64-6510",
+    "name": "The 6510",
+    "epithet": "a 6502 with a port · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The 6510:C64:4f2dbf⟧"
+  },
+  {
+    "slug": "the-c64-vic2",
+    "name": "The VIC-II",
+    "epithet": "sprites and smooth scroll · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The VIC-II:C64:653dd2⟧"
+  },
+  {
+    "slug": "the-c64-sid",
+    "name": "The SID",
+    "epithet": "a synthesiser on a chip · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The SID:C64:34a549⟧"
+  },
+  {
+    "slug": "the-c64-ram",
+    "name": "The 64 KB",
+    "epithet": "the famous number · natural",
+    "emergence": "natural",
+    "moniker": "⟦The 64 KB:C64:5ba173⟧"
+  },
+  {
+    "slug": "the-c64-1541",
+    "name": "The 1541 Drive",
+    "epithet": "a computer for your discs · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The 1541 Drive:C64:f05a0d⟧"
+  },
+  {
+    "slug": "the-c64-kernal",
+    "name": "The KERNAL",
+    "epithet": "the system in ROM · natural",
+    "emergence": "natural",
+    "moniker": "⟦The KERNAL:C64:ea92ed⟧"
+  }
+]

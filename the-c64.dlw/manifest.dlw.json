@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "COMMODORE 64 · C64",
+  "universe": "C64 · COMMODORE 64 · C64 (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦COMMODORE 64 · C64:C64:ba84f9⟧",
+  "carbon": "the-c64.carbon.tiff (TIFF)",
+  "silicon": "the-c64.silicon.png (PNG)",
+  "seal_sha256": "58d63e220614a05fcadc2a44ac9a0ea53f147c3ab170542a07d06a9406890923",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

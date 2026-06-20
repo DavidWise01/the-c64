@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 64 KB",
+  "universe": "C64 · The 64 KB (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The 64 KB:C64:5ba173⟧",
+  "carbon": "the-c64-ram.carbon.tiff (TIFF)",
+  "silicon": "the-c64-ram.silicon.png (PNG)",
+  "seal_sha256": "428d4ffa92cd0129f683bc2a827a239ab0315c8bce18406746e6c2e38d9e788c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
