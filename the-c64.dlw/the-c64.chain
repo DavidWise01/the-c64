@@ -4,6 +4,6 @@ slug  : the-c64
 seal  : 58d63e220614a05fcadc2a44ac9a0ea53f147c3ab170542a07d06a9406890923
 prev  : 3c350a292ab5bf7d91fa32bb02b124b1479240286ed2fd304b773cf21a029932
 link  : 2448cb7559638c29bac06aa138d08e13883410358ca6f2508e87042778c6cfeb
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
